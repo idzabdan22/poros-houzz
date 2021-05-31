@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".AddToMyHouse.design_category_myhouse">
+
+    <ImageView
+        android:id="@+id/living_myhouse"
+        android:layout_width="173dp"
+        android:layout_height="149dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="176dp"
+        android:background="@color/AppGreen"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/bathroom_myhouse"
+        android:layout_width="173dp"
+        android:layout_height="149dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="176dp"
+        android:background="@color/AppGreen"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <ImageView
+        android:id="@+id/bedroom_myhouse"
+        android:scaleType="fitXY"
+        android:layout_width="173dp"
+        android:layout_height="149dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="76dp"
+        android:background="@color/AppGreen"
+        app:layout_constraintBottom_toTopOf="@+id/living_myhouse"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/kitchen_myhouse"
+        android:layout_width="173dp"
+        android:layout_height="149dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="76dp"
+        android:background="@color/AppGreen"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toTopOf="@+id/bathroom_myhouse"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="48dp"
+        android:text="My Bedroom"
+        app:layout_constraintBottom_toTopOf="@+id/bedroom_myhouse"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.956" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="60dp"
+        android:text="My Kitchen"
+        app:layout_constraintBottom_toTopOf="@+id/kitchen_myhouse"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.956" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="48dp"
+        android:layout_marginTop="48dp"
+        android:text="My Livingroom"
+        app:layout_constraintBottom_toTopOf="@+id/living_myhouse"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bedroom_myhouse" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Find Professional Now"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.912" />
+
+    <TextView
+        android:layout_marginTop="15dp"
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Design &amp; Decoration"
+        android:textSize="15dp"
+        app:layout_constraintBottom_toTopOf="@+id/textView12"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="48dp"
+        android:layout_marginEnd="48dp"
+        android:text="My Bathroom"
+        app:layout_constraintBottom_toTopOf="@+id/bathroom_myhouse"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/textView13"
+        app:layout_constraintTop_toBottomOf="@+id/kitchen_myhouse" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+

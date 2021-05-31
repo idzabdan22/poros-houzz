@@ -1,0 +1,156 @@
+<resources>
+    <string name="app_name">Poros Houzz</string>
+
+    <string name="title_activity_navigation_home">NavigationHome</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">My House</string>
+    <string name="menu_slideshow">Save</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_home_fragment">Hello home fragment</string>
+    <string name="hello_save_fragment">Hello save fragment</string>
+    <string name="hello_myhouse_fragment">Hello myhouse fragment</string>
+    <string name="hello_user_fragment">Hello user fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--    Judul Design & Funiture-->
+    <string name="bed1">Claret Way</string>
+    <string name="bed2">Rocabye</string>
+    <string name="bed3">Sherwood Custom</string>
+
+    <string name="dp1">Poros Kitchen Shine</string>
+    <string name="dp2">Pawon Jowo</string>
+    <string name="dp3">Clean Blue Sky</string>
+
+    <string name="km1">Hidden Prairie Farm</string>
+    <string name="km2">Rocklegde</string>
+    <string name="km3">41st</string>
+
+    <string name="liv1">Sun Bright Calm</string>
+    <string name="liv2">Anomion Strares</string>
+    <string name="liv3">Jawa Joglo</string>
+
+    <string name="kasur1">Cozy Bed Emerald</string>
+    <string name="kasur2">Green Bed Emerald</string>
+    <string name="kasur3">Yellow Bed Emeralda</string>
+
+    <string name="chair1">Tuscany style</string>
+    <string name="chair2">Turkish acany style</string>
+    <string name="chair3">American style</string>
+
+    <string name="table1">Light color style</string>
+    <string name="table2">European style</string>
+    <string name="table3">Asian style tucany</string>
+
+    <string name="lamp1">Cozy Emerald Tuscany</string>
+    <string name="lamp2">Green cozy Emerald</string>
+    <string name="lamp3">Yellow olive Emeralda</string>
+
+
+    <!--    Untuk Fragment User-->
+    <string name="acc_created">Account Created :</string>
+    <string name="username">Username :</string>
+    <string name="longname">Name :</string>
+    <string name="logout">Logout</string>
+    <string name="rate">Rate the app</string>
+
+    <!--    Untuk Fragment MyHouse-->
+    <string name="design_text">DESIGN</string>
+    <string name="decoration_text">DECORATION</string>
+    <string name="mybedroom_text">My Bedroom</string>
+    <string name="mykitchen_text">My Kitchen</string>
+    <string name="mylivingroom_text">My Livingroom</string>
+    <string name="mybathroom_text">My Bathroom</string>
+    <string name="wishlist_button">Cari Jasa Terdekat Sekarang!</string>
+
+<!--    Untuk Deskripsi Furniture-->
+
+    <string name="kasur_desc">
+        Elegant and eye-catching, the stunning Black Velvet Luxus King Bed from Meridian Furniture is the perfect addition to any space.\n
+        \nOverall Dimensions: 110" W x 100.5" D x 55" H\n
+        \nPATENT PENDING Design\n
+        \nSoft Black Velvet\n
+        \nRound Bed\n
+        \nDeep Button Tufting\n
+        \nFootboard Height 15.5"\n
+        \nFootboard Inner Storage Dimensions 55.5"L x 11.5"D x 12.25"H\n
+        \nRails Inner Storage Dimensions 78.75"L x 13.5"D x 12.25"H\n
+        \nContemporary Design\n
+    </string>
+
+        <string name="chair_desc">
+        Hand assembled plywood lounge chair and ottoman. 100% real italian leather, including piping and buttons. High-elastic soft foam, great resilience and no marks. 7-ply laminated real wood veneer, prevent warping or cracking, security and longevity.\n
+        \nCast Aluminum five-star base with 360 degree swivel function, fixed backward tilt of approximately 15 degrees. Rubber Shock Mounts connecting the head and back rest allow for flexibility. The height of the chair is fixed and cannot adjust. It is the same as the original design.\n
+        \n
+        \nChair = L35.4 x W35 x H31.5\n
+        \nSeat height: 15.7 inches(40CM)\n
+        \nOttoman = L27 x W20.9 x H15.7\n
+        \nFits perfectly in : sitting room, study room, leisure area, bedroom, office, club, etc.\n
+    </string>
+
+        <string name="lamp_desc">
+        \nClean, Geometric Lines Open The Visual Space Around This Modern Floor Lamp. Staggered Steel Rectangles Finished In Lightly Antiqued Gold Leaf Are Each Accented By A Clear Glass Globe. Three 40W T14, Amber Colored, Antique Style Bulbs Are Included.\n
+        \nHeirloom Quality - Expertly hand crafted and hand finished. Due to the hand crafted nature of this piece, each piece may have subtle differences.\n
+        \nDimensions : 14"L x 8"W x 64"H.\n
+        \nWeights : 29.5 lbs.\n
+        \nMaterial :  Hand Finished Steel and Glass\n
+        \nUL listed. Uses three max 40 watt Type A bulbs (Three 40W T14, amber colored, antique style bulbs are included.)\n
+    </string>
+
+        <string name="meja_desc">
+        \nExpand the storage capabilities of your work space with desk! Its vertical design saves floor space while enhancing storage options. Made of quality board, this desk ensures sturdiness, durability and long service life. The stylish modern layout features split levels of storage and display space to easily organize and store your folders, documents, reminders, PC equipment and more. Stylish, space-saving and functional at the same time, our desk is perfect for any tight office, dorm space, tiny house, or even if you just prefer to manage the space you have!\n
+        \nColor: Sonoma oak\n
+        \nMaterial: Chipboard\n
+        \nOverall dimensions: 43.3" x 17.7" x 61.8" (L x W x H)\n
+        \nAmple storage space with upper cabinet\n
+        \nEasy to clean with damp cloth\n
+    </string>
+
+<!--    Design Desc-->
+    <string name="descbedroom">
+        This 3200 square foot home features a maintenance free exterior of LP Smartside,\n
+        corrugated aluminum roofing, and native prairie landscaping. The design of the structure.\n
+        is intended to mimic the architectural lines of classic farm buildings. The outdoor living.\n
+        areas are as important to this home as the interior spaces; covered and exposed porches.\n
+        field stone patios and an enclosed screen porch all offer expansive views of the surrounding meadow and tree line.\n
+        The home’s interior combines rustic timbers and soaring spaces which would have traditionally been reserved for the barn and outbuildings.\n
+        with classic finishes customarily found in the family homestead. Walls of windows and cathedral ceilings invite the outdoors in. Locally sourced\n
+        reclaimed posts and beams, wide plank white oak flooring and a Door County fieldstone fireplace juxtapose with classic white cabinetry and millwork.
+    </string>
+
+    <string name="descbathroom">
+        SDH Studio - Architecture and Design Location: Golden Beach, Florida, USA Overlooking the canal\n
+        in Golden Beach 96 GB was designed around a 27 foot triple height space that would be the heart of this home.\n
+        With an emphasis on the natural scenery, the interior architecture of the house opens up towards the water and fills the space with natural\n
+        light and greenery.The outdoor living areas are as important to this home as the interior spaces; covered and exposed porches, field stone patios\n
+        and an enclosed screen porch all offer expansive views of the surrounding meadow and tree line.
+    </string>
+
+    <string name="desclivingroom">
+        RIn this combination living room/ family room, form vs function is at its best.. Formal enough to host a cocktail party, and\n
+        comfortable enough to host a football game. The wrap around sectional accommodates 5-6 people and the oversized ottoman has room\n
+        enough for everyone to put their feet up! The high back, stylized wing chair offers comfort and a lamp for reading.\n
+        Decorative accessories are placed in the custom built bookcases freeing table top space for drinks, books, etc.\n
+        Magazines and current reading are neatly placed in the rattan tray for easy access.\n
+        The overall neutral color palette is punctuated by soft shades of blue around the room. LORRAINE G VALE photo by Michael Costa\n
+        The lampshade - good example of what to find for the lamp with the pottery base for the livingroom
+    </string>
+
+    <string name="desckitchen">
+        This homes kitchen isnt large and needed to somehow hold a mudroom area as the detached garage enters into the space.\n
+        I carefully planned out all storage needs and we were able to add a wide, double door cabinet closet by the back door.\n
+        The upper area holds coats and clutter. The lower doors have hooks and boot trays for backpacks and shoes.\n
+        Paneling the Subzero fridge helps with softening the weight of the large appliance, as does the panel on the dishwasher.\n
+        Little details like the skirt on the toe area and the beautiful hood and island posts make this smaller work space truly special!\n
+        light and bright; bottom of cabinets.
+    </string>
+
+
+</resources>

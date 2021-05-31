@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title=""
+        android:id="@+id/home_fragment_but"
+        android:icon="@drawable/homenav"
+        />
+    <item android:title=""
+        android:id="@+id/myhouse_fragment_but"
+        android:icon="@drawable/myhouse"/>
+    <item android:title=""
+        android:id="@+id/myhouse_funiture_but"
+        android:icon="@drawable/funiture"/>
+    <item android:title=""
+        android:id="@+id/save_fragment_but"
+        android:icon="@drawable/save"/>
+    <item android:title=""
+        android:id="@+id/user_fragment_but"
+        android:icon="@drawable/user"/>
+</menu>
